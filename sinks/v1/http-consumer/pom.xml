@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.github.japgolly.fork.google-cloud-trace.v1</groupId>
     <artifactId>v1</artifactId>
-    <version>0.3.3</version>
+    <version>0.3.4-SNAPSHOT</version>
   </parent>
   <artifactId>http-consumer</artifactId>
   <packaging>jar</packaging>
