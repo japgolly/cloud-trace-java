@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>services-parent</artifactId>
-    <groupId>com.google.cloud.trace</groupId>
+    <groupId>com.github.japgolly.fork.google-cloud-trace</groupId>
     <version>0.3.3-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
@@ -37,7 +37,7 @@
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>com.google.cloud.trace.v1</groupId>
+      <groupId>com.github.japgolly.fork.google-cloud-trace.v1</groupId>
       <artifactId>grpc-consumer</artifactId>
       <version>${project.version}</version>
     </dependency>

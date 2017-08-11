@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.google.cloud.trace.v1</groupId>
+    <groupId>com.github.japgolly.fork.google-cloud-trace.v1</groupId>
     <artifactId>v1</artifactId>
     <version>0.3.3-SNAPSHOT</version>
   </parent>

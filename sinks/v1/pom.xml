@@ -3,13 +3,13 @@
 
   <parent>
     <artifactId>root</artifactId>
-    <groupId>com.google.cloud.trace</groupId>
+    <groupId>com.github.japgolly.fork.google-cloud-trace</groupId>
     <version>0.3.3-SNAPSHOT</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
 
   <name>Google Cloud Trace Java SDK API v1 Dependencies</name>
-  <groupId>com.google.cloud.trace.v1</groupId>
+  <groupId>com.github.japgolly.fork.google-cloud-trace.v1</groupId>
   <artifactId>v1</artifactId>
   <packaging>pom</packaging>
   <modules>
