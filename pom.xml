@@ -3,7 +3,7 @@
 
   <groupId>com.github.japgolly.fork.google-cloud-trace</groupId>
   <artifactId>root</artifactId>
-  <version>0.3.3-SNAPSHOT</version>
+  <version>0.3.3</version>
   <packaging>pom</packaging>
 
   <name>Google Cloud Trace Java SDK Root Project</name>
@@ -48,7 +48,7 @@
     <url>https://github.com/japgolly/cloud-trace-java</url>
     <connection>scm:git:git@github.com:japgolly/cloud-trace-java.git</connection>
     <developerConnection>scm:git:git@github.com:japgolly/cloud-trace-java.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>0.3.3</tag>
   </scm>
 
   <distributionManagement>
